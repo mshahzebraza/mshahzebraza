@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-M.Shahzeb Raza is an aspiring MERN Stack Web Developer who finds solace in building amazing websites and web apps.
+I am an aspiring MERN Stack Web Developer who finds solace in building amazing websites and web apps.
 
 
 - 🔭 I’m currently working on [Office-Works]([https://x-office-work.vercel.app/projects](https://github.com/mshahzebraza97/office-work)), which is essentially an inventory management system coupled with manufacturing and procurement progress tracker.
