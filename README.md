@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" src="./banner.png"/>
+<img align="center" src="./assets/banner.png"/>
 <!-- ![Alt text](<banner.png>) -->
 <!-- <br/> -->
 
