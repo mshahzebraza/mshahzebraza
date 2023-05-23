@@ -46,10 +46,12 @@
 - ⚡ Fun fact **I have a Bachelors in Mechanical Engineering.**
 
 - 💻 Some of my **latest projects** are  as follows:
-  - [**🔸OfficeWorks - An Invenory Management Solution**](https://x-office-work.vercel.app/projects) (In Process)
+  - [**🔸Natours - Landing Page for Tour Company**](https://natours-landing-page.vercel.app/)<br/>
+  - [**🔸Netflix Clone**](https://netflix-mshahzebraza.web.app/)<br/>
   - [**🔸Forkify - A Recipe App**](https://section-09-forkify.vercel.app/)
   - [**🔸SkyNet - Weather App**](https://weather-next-app-ten.vercel.app/)
-  - [**🔸 Natours - Landing Page for Tour Company**](https://natours-landing-page.vercel.app/)<br/>
+  - [**🔸 Quack Chat**](https://quackchat.netlify.app/login)<br/>
+  - [**🔸OfficeWorks - An Invenory Management Solution**](https://x-office-work.vercel.app/projects) (In Process)
 
 </div>
 <!-- Main Info End -->
