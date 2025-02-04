@@ -1,7 +1,5 @@
 <!-- Banner -->
 <img align="center" src="./assets/banner.png"/>
-<!-- ![Alt text](<banner.png>) -->
-<!-- <br/> -->
 
 <!-- Intro -->
 <div align='center' height="200" >
@@ -10,13 +8,6 @@
 </div>
 
 <br>
-
- <!-- Other Images Source -->
-<!-- Image 01: "https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" -->
-<!-- Image 02: "https://i.pinimg.com/564x/06/66/82/06668293e115bd47e0894a039160afbe.jpg" -->
-<!-- Image 03: "https://i.pinimg.com/originals/50/31/27/503127bc54ac2af7bdb5f951494c51c5.gif" -->
-<!-- Image 04: "https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" -->
-<!-- Image 05: "https://i.pinimg.com/564x/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" -->
 
  <!-- Main Image -->
 <img
@@ -41,7 +32,7 @@
 
 - 📫 My Email: **m.shahzebraza.97@gmail.com**
 
-- 📄 Take a look at my [**Resume**](https://drive.google.com/file/d/10Dz-TYS0YyM4cbayE52jJWsZTAkKZcb4/view?usp=sharing)
+- 📄 Take a look at my [**Resume**](https://docs.google.com/document/d/1zZDQWwIdRWR5Q8KIx9U2NDkFCdDSyJWAhAwjSp9PRos/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a Bachelors in Mechanical Engineering.**
 
@@ -54,7 +45,6 @@
   - [**🔸OfficeWorks - An Invenory Management Solution**](https://x-office-work.vercel.app/projects) (In Process)
 
 </div>
-<!-- Main Info End -->
 
 <br>
 
